@@ -14,6 +14,7 @@ div {
   color:black;
 }
 h1 {
+  text-align: right;
   margin-bottom: 15px;
   font-family: Lucida Console;
   color: white;
